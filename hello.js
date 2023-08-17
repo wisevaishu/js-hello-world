@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("Hello World")
+console.log("1")
+console.log(1+2)
+console.log("Multiple Messages") + console.log("two messages on same line")
+process.stdout.write("one" + " two");
+console.log("\n")
+let welcome = "welcome"
+console.log('"'+welcome+'"')
 
 /*  
 Next, PLAY! 
